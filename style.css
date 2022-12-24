@@ -1,0 +1,74 @@
+*{
+    margin: 5px;
+    padding: 0px;
+    background-color: beige;
+}
+
+.main-head{
+    font-size: 2cm;
+    text-align: center;
+    text-decoration:underline;
+    font-family: roboto;
+    color: black;
+}
+
+
+.mail-card{
+    display: inline-block;
+    height: auto;
+    width: auto;
+    border: 2px solid;
+    margin: auto;  
+    padding:10px;
+    font-weight: bold;
+}
+.profile-img-card{
+   
+    border: 5px solid;
+    border-radius: 80%;
+    border-color: black;
+    opacity: 0.9;
+    margin-left: auto;
+    background-size: cover; 
+}
+
+.name-card{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.career-head-container{
+    margin: auto;
+    height: auto;
+    width: auto;
+    border: 2px solid;
+    padding: 20px;
+}
+
+.personal-details-container{
+    margin: auto;
+    height: auto;
+    width: auto;
+    border: 2px solid;
+    padding: 20px;
+}
+
+.embbed-responsive-map{
+    margin: auto;
+}
+
+.course-section{
+    margin: 20px;
+}
+
+.hobbies-section{
+    margin: 20px;
+}
+.college-image-section{
+    margin: 20px;
+    text-align: center;
+}
+
+.social-media-section{
+    
+}
